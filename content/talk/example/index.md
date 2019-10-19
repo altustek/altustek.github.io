@@ -3,12 +3,12 @@ title: Example Talk
 event: Academic Theme Conference
 event_url: https://example.org
 
-location: Source Themes HQ
+location: AltusTek LLC
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 1 Lunder Way
+  city: Wellesley
+  region: MA
+  postcode: '02481'
   country: United States
 
 summary: An example talk using Academic's Markdown slides feature.
