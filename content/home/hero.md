@@ -17,11 +17,11 @@ hero_media = "AltusTek.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  # color = "white"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+ # gradient_start = "#ffffff"
+ # gradient_end = "#ffffff"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -33,19 +33,19 @@ hero_media = "AltusTek.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
-  
-[cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
-
-# Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+#mr [cta]
+#mr   url = "https://sourcethemes.com/academic/docs/install/"
+#mr   label = "Get Started"
+#mr   icon_pack = "fas"
+#mr   icon = "download"
+#mr   
+#mr [cta_alt]
+#mr   url = "https://sourcethemes.com/academic/"
+#mr   label = "View Documentation"
+#mr 
+#mr # Note. An optional note to show underneath the links.
+#mr [cta_note]
+#mr   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
 ** THE MAIN CONTENT FOR THE FIRST FOLD **
