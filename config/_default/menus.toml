@@ -15,12 +15,12 @@
 
 [[main]]
   name = "Systems"
-  url = "#10-elecsys"
+  url = "#20-elecsys"
   weight = 10
 
 [[main]]
   name = "Consulting"
-  url = "#10-mgmcon"
+  url = "#30-mgmcon"
   weight = 15
 
 [[main]]
