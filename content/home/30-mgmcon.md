@@ -3,12 +3,12 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "AltusTek"
+title = "Management Consulting"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "AltusTek.png"
+#hero_media = "AltusTek.png"
 
 [design.background]
   # Apply a background color, gradient, or image.

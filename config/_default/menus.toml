@@ -5,38 +5,23 @@
 
 [[main]]
   name = "Home"
-  url = "#hero"
+  url = "#05-topslider"
   weight = 01
 
 [[main]]
-  name = "Slider"
-  url = "#slider"
+  name = "ASIC"
+  url = "#10-asic"
   weight = 05
 
 [[main]]
-  name = "Demo"
-  url = "#demo"
+  name = "Systems"
+  url = "#10-elecsys"
   weight = 10
 
 [[main]]
-  name = "About"
-  url = "#about"
+  name = "Consulting"
+  url = "#10-mgmcon"
   weight = 15
-
-[[main]]
-  name = "Skills"
-  url = "#skills"
-  weight = 17
-
-[[main]]
-  name = "Experience"
-  url = "#experience"
-  weight = 18
-
-[[main]]
-  name = "Accomplishments"
-  url = "#accomplishments"
-  weight = 19
 
 [[main]]
   name = "Posts"
@@ -49,30 +34,14 @@
   weight = 30
 
 [[main]]
-  name = "Gallery"
-  url = "#gallery"
-  weight = 32
-
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 34
-
-[[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "About"
+  url = "#about"
   weight = 40
-
-[[main]]
-  name = "Popular Topics"
-  url = "#tags"
-  weight = 45
-
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
