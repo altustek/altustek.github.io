@@ -20,7 +20,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "ASIC Desgin"
+title = "ASIC Design"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 #hero_media = "AltusTek.png"
