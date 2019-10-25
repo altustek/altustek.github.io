@@ -14,10 +14,10 @@
 #theme = "coffee"
 #theme = "dark"
 #theme = "forest"
-#theme = "minimal"
+theme = "minimal"
 #theme = "mr_robot"
 #theme = "ocean"
-theme = "rose"
+#theme = "rose"
 #theme = "strawberry"
 
 
