@@ -32,12 +32,20 @@ title = "ASIC Design"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "white"
+  # color = "#3d7c47"
   
   # Background gradient.
- # gradient_start = "#ffffff"
- # gradient_end = "#ffffff"
-  
+# https://hookagency.com/wp-content/uploads/2018/09/soft-blue-green-palette.jpg.webp
+# Green Mountain: #3d7c47
+# Blue Mountain: #09868b
+# Light Blue Backdrop: #76c1d4
+# Barely Gray Edge: #f7f7f7
+
+  gradient_start = "#3d7c47"
+  gradient_end = "#09868b"
+#  gradient_start = "#09868b"
+#  gradient_end = "#3d7c47"
+
   # Background image.
   # image = ""  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
