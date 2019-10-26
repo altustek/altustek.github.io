@@ -1,0 +1,35 @@
+# Theme metadata
+name = "altustek"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#EF525B"
+
+# Menu
+menu_primary = "#24C2CB"
+menu_text = "#fff"
+menu_text_active = "#00828B"
+menu_title = "#fff"
+
+# Backgrounds
+background = "#F7F7F7"
+home_section_odd  = "#3D7C47"
+home_section_even = "#09868B"
+
+font = "rose"
+
+  # Background gradient.
+# https://hookagency.com/wp-content/uploads/2018/09/soft-blue-green-palette.jpg.webp
+# Green Mountain: #3d7c47
+# Blue Mountain: #09868b
+# Light Blue Backdrop: #76c1d4
+# Barely Gray Edge: #f7f7f7
+
+#  gradient_start = "#3d7c47"
+#  gradient_end = "#09868b"
+#  gradient_start = "#09868b"
+#  gradient_end = "#3d7c47"
+
+

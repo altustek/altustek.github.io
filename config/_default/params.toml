@@ -14,11 +14,12 @@
 #theme = "coffee"
 #theme = "dark"
 #theme = "forest"
-theme = "minimal"
+#theme = "minimal"
 #theme = "mr_robot"
 #theme = "ocean"
 #theme = "rose"
 #theme = "strawberry"
+theme = "altustek"
 
 
 # Enable users to switch between day and night mode?
