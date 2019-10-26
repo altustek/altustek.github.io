@@ -27,5 +27,5 @@ git rm -rf *
 popd
 
 msg "Building the website"
-hugo -v server 
+hugo -v server --disableFastRender
 
