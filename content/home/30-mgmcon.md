@@ -26,8 +26,8 @@ title = "Management Consulting"
 # Light Blue Backdrop: #76c1d4
 # Barely Gray Edge: #f7f7f7
 
-  gradient_start = "#3d7c47"
-  gradient_end = "#09868b"
+#  gradient_start = "#3d7c47"
+#  gradient_end = "#09868b"
 #  gradient_start = "#09868b"
 #  gradient_end = "#3d7c47"
   
