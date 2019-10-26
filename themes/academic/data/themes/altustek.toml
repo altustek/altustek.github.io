@@ -5,10 +5,10 @@ name = "altustek"
 light = true
 
 # Primary
-primary = "#EF525B"
+primary = "#fff"
 
 # Menu
-menu_primary = "#24C2CB"
+menu_primary = "#ff0"
 menu_text = "#fff"
 menu_text_active = "#00828B"
 menu_title = "#fff"
@@ -18,7 +18,7 @@ background = "#F7F7F7"
 home_section_odd  = "#3D7C47"
 home_section_even = "#09868B"
 
-font = "rose"
+font = "altustek"
 
   # Background gradient.
 # https://hookagency.com/wp-content/uploads/2018/09/soft-blue-green-palette.jpg.webp
