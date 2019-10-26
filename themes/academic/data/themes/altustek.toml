@@ -1,17 +1,19 @@
 # Theme metadata
-name = "Minimal"
+name = "Altustek"
 
 # Is theme light or dark?
 light = true
 
 # Primary
-primary = "#2962ff"
+primary = "#0166ff"
+#A = #0166ff https://www.colorabout.com/color/hex/0166ff/
+#T - 01d455 https://www.colorabout.com/color/hex/01d455/
 
 # Menu
 menu_primary = "#fff"
-menu_text = "#34495e"
-menu_text_active = "#2962ff"
-menu_title = "#2b2b2b"
+menu_text = "#002966"
+menu_text_active = "#01aa44"
+menu_title = "#002966"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
