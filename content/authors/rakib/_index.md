@@ -1,41 +1,37 @@
 ---
 # Display name
-name: Mayuresh (Gene) R.
+name: Rakibou Ouro-Djobo
 
 # Username (this should match the folder name)
 authors:
-- mayuresh
+- rakib
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Principal
+role: Consultant
 
 # Organizations/Affiliations
 organizations:
 - name: Altustek
   url: "http://www.altustek.com/"
-- name: IEEE
-  url: "http://www.ieee.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
+- A self-motivated, multilingual Babson College MBA graduate, experienced in life sciences and biotechnology settings. Performs well in multi-national environments and is adept at managing all phases of a business and project life cycle.  Solution-oriented, skilled at problem-solving, comfortable with ambiguity, and possess an entrepreneurial spirit. Known for strong interpersonal skills, teamwork, integrity, and a solid work ethic. Seeking to increase business management and strategic operations’ knowledge in a global environment.  
 
 interests:
-- ASIC Design
-- Electronic Design Automation (EDA)
-- AI & ML for EDA
-- Electronic Systems & IOT
+- Biotechnology
+- Operations Managerment
+- Business Development
 
 education:
   courses:
   - course: MBA in Entrepreneurship
     institution: Babson College 
-  - course: M.Tech. in Microelectronics
-    institution: Indian Institute of Technology, Bombay
-  - course: M.Sc. in Physics
-    institution: Indian Institute of Technology, Bombay
+  - course: BS in Medical Biotechnology
+    institution: State University of New York Upstate Medical University
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,13 +40,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:gene@altustek.com".
+  link: 'mailto:okaribou@altustek.com'  # For a direct email link, use "mailto:gene@altustek.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/MayurRajwadkar
+  link: https://twitter.com/RakibFall
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/ememare/
+  link: https://www.linkedin.com/in/rakibou/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
