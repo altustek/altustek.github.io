@@ -36,9 +36,9 @@ interval = 5000
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-#  overlay_color = "#666"  # An HTML color value.
-#  overlay_img = ""  # Image path relative to your `static/img/` folder.
-#  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -53,9 +53,9 @@ interval = 5000
   content = "IOT and Electronic System Design & Manufacturing" 
   align = "left"
 
-#  overlay_color = "#555"  # An HTML color value.
-#  overlay_img = ""  # Image path relative to your `static/img/` folder.
-#  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -70,9 +70,9 @@ interval = 5000
   content = "Management Consulting for Hi-Tech Industries and Life Sciences"
   align = "left"
 
-#  overlay_color = "#333"  # An HTML color value.
-#  overlay_img = ""  # Image path relative to your `static/img/` folder.
-#  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   cta_label = "Learn More"
   cta_url = "#30-mgmcon"
