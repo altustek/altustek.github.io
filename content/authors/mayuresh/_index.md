@@ -14,19 +14,21 @@ role: Principal
 
 # Organizations/Affiliations
 organizations:
-- name: Altustek
-  url: "http://www.altustek.com/"
 - name: IEEE
-  url: "http://www.ieee.org/"
+  url: "https://www.ieee.org/"
+- name: TiE Boston
+  url: "https://boston.tie.org/"
+- name: IITAGNE
+  url: "https://www.iitagne.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- ASIC Design
-- Electronic Design Automation (EDA)
-- AI & ML for EDA
 - Electronic Systems & IOT
+- RISC-V & OpenHW
+- ASIC Design & Electronic Design Automation (EDA)
+- AI/ML for EDA
 
 education:
   courses:
@@ -44,13 +46,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:gene@altustek.com".
+  link: 'mailto:gene@altustek.com?subject=[AltusWebProfile]'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ememare
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MayurRajwadkar
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/ememare/
+- icon: phone
+  icon_pack: fas
+  link: 'tel:+16266298767'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
@@ -59,8 +64,8 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Consultants
+#and also invests with [TiE Boston Angels](https://boston.tie.org/tiebostonangels/). 
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Mayuresh (Gene) is the founder and principal of Altustek LLC.
+Mayuresh has worked for 20 years in the semiconductor industry, mostly with [Analog Devices](https://www.analog.com) [(ADI)](https://finance.yahoo.com/quote/ADI/) as a Digital Physical Design Engineer(PD) and an EDA expert at its offices in San Jose CA, Austin TX and Norwood MA. Mayuresh also has been a Linux enthusiast for over 20 years and has hands on application expertise in various flavors of linux and its applications from embedded devices to data centers.  
