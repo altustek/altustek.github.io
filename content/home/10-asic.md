@@ -36,7 +36,7 @@ title = "ASIC Design"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "#3d7c47"
+   color = "#3d7c47"
   
   # Background gradient.
 # https://hookagency.com/wp-content/uploads/2018/09/soft-blue-green-palette.jpg.webp
